@@ -23,3 +23,7 @@ Part two of the series will cover the following functionality:
 - Validation
 
 It's not meant to be an application which is either elegant or beautiful, nor one which takes the full range of security attack vectors into consideration. It may do that with time, but at least initially, it's a simple, learning repository. 
+
+## Acknowledgements
+
+I want to give a special thank you to Bill Kennedy from [Ardan Studios](http://www.ardanstudios.com) for all his help and guidance, during the development of the 2-part series.
