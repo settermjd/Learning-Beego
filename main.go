@@ -14,7 +14,6 @@ func init() {
 	orm.RegisterModel(new(models.Article))
 }
 
-// Main function
 func main() {
 	beego.Run()
 }
