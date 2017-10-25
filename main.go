@@ -9,6 +9,8 @@ import (
 )
 
 func init() {
+	// This is a dummy change to test Hound
+	var Go_Ing_Go int
 	orm.RegisterDriver("sqlite", orm.DR_Sqlite)
 	orm.RegisterDataBase("default", "sqlite3", "database/orm_test.db")
 	orm.RegisterModel(new(models.Article))
